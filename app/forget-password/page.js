@@ -30,7 +30,7 @@ export default function ForgotPasswordPage() {
     <div className="min-h-screen flex items-center justify-center login">
       <div className="bg-teal-100/70 p-10 px-24    text-center">
         <p className="mb-6">
-          Don’t worry, Enter your email below and we will<br />
+          Don&apos;t worry, Enter your email below and we will<br />
           send you a link to change password.
         </p>
 
