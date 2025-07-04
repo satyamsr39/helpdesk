@@ -157,7 +157,7 @@ export default function NewTicket() {
           {/* reCAPTCHA and Submit aligned */}
           <div className="flex justify-between items-center mt-2 flex-wrap gap-4">
             <div className="border border-gray-400 p-6 px-10 bg-white shadow-sm">
-              <input type="checkbox" className="mr-2 w-6 h-6" /> I'm not a robot
+              <input type="checkbox" className="mr-2 w-6 h-6" /> I&apos;m not a robot
               <div className="text-xs mt-1 text-gray-500">reCAPTCHA</div>
             </div>
 
